@@ -15,11 +15,22 @@ print(type(num2))
 
 # To perform Max,power, sub,mul,sum and div
 print("Maximum is ",max(num1,num2))
+print(f"Maxi of {num1,num2} is {max(num1,num2)}")
+
 print("Power is ",pow(num1,num2))
+print(f"Power of {num1,num2} is {pow(num1,num2)}")
+
 print("Subtraction is ",(num1-num2))
+print(f"Subtraction of {num1,num2} is {(num1-num2)}")
+
 print("Multiplication is ",(num1*num2))
+print(f"Multiplication of {num1,num2} is {(num1*num2)}")
+
 print("Sum is ",(num1+num2))
+print(f"Sum of {num1,num2} is {(num1+num2)}")
+
 print("Division is ",(num1/num2))
+print(f"Division of {num1,num2} is {(num1/num2)}")
 
 
 
