@@ -1,4 +1,4 @@
- #Explain the difference between the = operator and the == operator in Python.
+# Explain the difference between the = operator and the == operator in Python.
 
 '''= is an assignment operator. It is used to assign values to a variable.
  == is an comparison operator. It is used to compare the two values to see if they are equal or not'''

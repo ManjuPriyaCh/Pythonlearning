@@ -17,3 +17,5 @@ elif (Side1 == Side2) or (Side2 == Side3) or (Side1 == Side3):
 
 else:
     print(f"Sides {Side1, Side2, Side3} is  a Scalene Triangle")
+
+    print("No triangle")

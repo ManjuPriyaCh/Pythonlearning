@@ -1,10 +1,8 @@
-
-
 Score = int(input("Enter the number score "))
 
-if 90 <= Score <= 100: # Score>=90 and Score<=100
-    #Grade='A'
-    #print("Your Grade is",Grade)
+if 90 <= Score <= 100:  # Score>=90 and Score<=100
+    # Grade='A'
+    # print("Your Grade is",Grade)
     print("Grade A")
 elif Score >= 80 and Score <= 89:
     print("Grade B")
@@ -14,8 +12,6 @@ elif Score >= 60 and Score <= 69:
     print("Grade C")
 elif Score >= 0 and Score <= 59:
     print("Grade F")
-
-
 
 # ✅ Grade Calculator:
 # Write a program that calculates and displays the letter grade

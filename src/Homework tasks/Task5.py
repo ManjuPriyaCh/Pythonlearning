@@ -11,6 +11,6 @@ elif num1 < num2:
 else:
     print(f"{num1} and {num2} are equal")
 
-#print(num1 > num2)
-#print(num1 < num2)
-#print(num1 == num2)
+# print(num1 > num2)
+# print(num1 < num2)
+# print(num1 == num2)
